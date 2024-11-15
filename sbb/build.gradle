@@ -5,7 +5,11 @@ plugins {
 }
 
 group = 'com.mysite'
+<<<<<<< HEAD
 version = '0.0.9'
+=======
+version = '0.0.8'
+>>>>>>> main
 
 java {
     toolchain {
