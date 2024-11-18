@@ -1,7 +1,7 @@
 # 스프링 부트 공부
 
 ## 아키텍처
-![image](https://github.com/user-attachments/assets/79c9dd2c-6e63-4e8b-9996-a74c7b6a6bb0)
+<img src="https://github.com/user-attachments/assets/79c9dd2c-6e63-4e8b-9996-a74c7b6a6bb0" width="650" />
 
 ## 결과물
 [https://codehan1.site/](https://codehan1.site/)
